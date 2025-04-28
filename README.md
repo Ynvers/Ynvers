@@ -10,6 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ynvers&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynvers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ynvers&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -18,3 +19,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ynvers&icon=6&color=2)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake.svg" />
+</picture>
