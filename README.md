@@ -1,28 +1,60 @@
-# 👋 Hi, I’m @Ynvers | AI Researcher in the making
+# 👋 Hi, I’m @Ynvers | AI Researcher in the making 🕷️
 
-> **"Aspiring to bridge the gap between complex Reinforcement Learning and development in **Africa**."**
+> **"Bridging the gap between complex Reinforcement Learning and development in Africa."**
 
 ## 💫 About Me :
-- 🧠 2026 Focus: Specializing in Reinforcement Learning (RL) and aiming to become a reference in this niche.
-- 🧬 Research & Industry: Actively working towards joining a major AI organization like ZINDI and contributing to research institutes.
-- 🚀 Open Source: Committed to high-level contributions and maintaining the longuest possible GitHub streak.
-- 🎓 Academic: Finishing the 42 Core Curriculum (Target: Oct 13, 2026) and end my Bachelor's degree.
-- 📫 Reach me: You can reach me via [this mail](luzolo.adoho@gmail.com) | [linkedin](https://www.linkedin.com/in/nathan-adoho/).
-- ⚡ Fun fact: I want to be a funny AI Spider-boy
+- 🧠 **2026 Focus**: Spécialisation en **Apprentissage par Renforcement (RL)**. Mon but ? Devenir une référence dans cette niche.
+- 🧬 **Research & Industry**: En route pour rejoindre des organisations comme **ZINDI** et intégrer des instituts de recherche en IA.
+- 🚀 **Open Source**: Engagé dans des contributions de haut niveau avec l'objectif de maintenir la plus longue série de commits possible.
+- 🎓 **Academic**: 
+    - En train de boucler le **Core Curriculum de 42** (Objectif : 13 Octobre 2026).
+    - Finalisation de ma Licence d'Informatique.
+- 🎮 **Side Quest**: Lancement d'une équipe de Game Dev pour créer un titre digne des Game Awards.
+- ⚡ **Fun fact**: I want to be a funny AI Spider-boy.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Tech Stack:
+### Languages & Core
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ynvers&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ynvers&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynvers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AI & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ynvers&icon=6&color=2)](https://visitcount.itsvg.in)
+
+## 🏛️ 42 Journey (Core Curriculum)
+
+| Projet | Description | Stack |
+| :--- | :--- | :---: |
+| **[Libft](https://github.com/Ynvers/libft)** | Ma propre bibliothèque de fonctions de base en C. | `C` |
+| **[Push_swap](https://github.com/Ynvers/push_swap)** | Algorithmes de tri optimisés avec des piles. | `C` |
+| **[Lancelot (Orator-AI)](https://github.com/Ynvers/Lancelot)** | Analyse de l'éloquence et de la voix. | `Python` |
+| **[RoseBleue](https://github.com/Ynvers/RoseBleue)** | Chatbot RAG spécialisé dans la santé. | `Python` / `RAG` |
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ynvers&theme=dark&show_icons=true&hide_border=false" alt="Ynvers Stats" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ynvers&theme=dark&hide_border=false" alt="Ynvers Streak" />
+</p>
+
+---
+
+## 📫 Reach me:
+- 📧 [luzolo.adoho@gmail.com](mailto:luzolo.adoho@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-adoho/)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ynvers&icon=6&color=2" alt="Views" />
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvers/ynvers/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake.svg" />
 </picture>
