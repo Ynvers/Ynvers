@@ -1,26 +1,51 @@
-# 👋 Hi, I’m @Ynvers | AI Researcher in the making 🕷️
+<div align="center">
 
-> **"Bridging the gap between complex Reinforcement Learning and development in Africa."**
+<img src="https://raw.githubusercontent.com/Ynvers/Ynvers/main/assets/spiderverse-header.gif" width="100%"/>
 
-## 💫 About Me :
-- 🧠 **2026 Focus**: Spécialisation en **Apprentissage par Renforcement (RL)**. Mon but ? Devenir une référence dans cette niche.
-- 🧬 **Research & Industry**: En route pour rejoindre des organisations comme **ZINDI** et intégrer des instituts de recherche en IA.
-- 🚀 **Open Source**: Engagé dans des contributions de haut niveau avec l'objectif de maintenir la plus longue série de commits possible.
-- 🎓 **Academic**: 
-    - En train de boucler le **Core Curriculum de 42** (Objectif : 13 Octobre 2026).
-    - Finalisation de ma Licence d'Informatique.
-- 🎮 **Side Quest**: Lancement d'une équipe de Game Dev pour créer un titre digne des Game Awards.
-- ⚡ **Fun fact**: I want to be a funny AI Spider-boy.
+# Ynvers
 
-## 🛠️ Tech Stack:
-### Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://github.com/Ynvers">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FF2FB3&center=true&vCenter=true&width=650&lines=Bridging+RL+research+%26+African+dev+%F0%9F%8C%8D;42+Core+Curriculum+%E2%80%94+ETA+Oct+2026+%F0%9F%8E%93;Building+RoseBleue+%2F+Lancelot+%F0%9F%A4%96;Aspiring+funny+AI+Spider-boy+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-### AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p>
+  <a href="mailto:luzolo.adoho@gmail.com"><img src="https://img.shields.io/badge/Email-050308?style=for-the-badge&logo=gmail&logoColor=FF2FB3" /></a>
+  <a href="https://www.linkedin.com/in/nathan-adoho/"><img src="https://img.shields.io/badge/LinkedIn-050308?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="https://github.com/Ynvers"><img src="https://img.shields.io/badge/Followers-050308?style=for-the-badge&logo=github&logoColor=F5F5FF" /></a>
+</p>
 
-### Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
+
+## 💫 About Me
+
+```yaml
+focus:      2026 → spécialisation Apprentissage par Renforcement (RL)
+target:     devenir une référence sur cette niche, rejoindre ZINDI / labo de recherche IA
+open_source: contributions de haut niveau + série de commits la plus longue possible
+academic:
+  - 42 Core Curriculum → objectif 13 Octobre 2026
+  - Licence d'Informatique → en finalisation
+side_quest: équipe Game Dev pour un titre digne des Game Awards
+fun_fact:   "I want to be a funny AI Spider-boy 🕷️"
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+<br/>
+![C](https://img.shields.io/badge/C-0D0714?style=for-the-badge&logo=c&logoColor=00F0FF) ![Python](https://img.shields.io/badge/Python-0D0714?style=for-the-badge&logo=python&logoColor=00F0FF) ![PHP](https://img.shields.io/badge/PHP-0D0714?style=for-the-badge&logo=php&logoColor=00F0FF) ![Java](https://img.shields.io/badge/Java-0D0714?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+
+**AI & Data Science**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-0D0714?style=for-the-badge&logo=PyTorch&logoColor=FF2FB3) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0714?style=for-the-badge&logo=TensorFlow&logoColor=FF2FB3) ![Keras](https://img.shields.io/badge/Keras-0D0714?style=for-the-badge&logo=Keras&logoColor=FF2FB3) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D0714?style=for-the-badge&logo=scikit-learn&logoColor=FF2FB3) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0714?style=for-the-badge&logo=fastapi&logoColor=FF2FB3)
+
+**Tools**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-0D0714?style=for-the-badge&logo=docker&logoColor=F5F5FF) ![Git](https://img.shields.io/badge/Git-0D0714?style=for-the-badge&logo=git&logoColor=F5F5FF) ![Linux](https://img.shields.io/badge/Linux-0D0714?style=for-the-badge&logo=linux&logoColor=F5F5FF)
+
+</div>
 
 ---
 
@@ -35,26 +60,29 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ynvers&theme=dark&show_icons=true&hide_border=false" alt="Ynvers Stats" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ynvers&theme=dark&hide_border=false" alt="Ynvers Streak" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Ynvers&hide_border=true&show_icons=true&count_private=true&bg_color=0D0714&title_color=FF2FB3&icon_color=00F0FF&text_color=C9C9E8" width="49%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Ynvers&hide_border=true&layout=compact&bg_color=0D0714&title_color=FF2FB3&text_color=C9C9E8" width="30%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ynvers&hide_border=true&background=0D0714&border=3A1A52&stroke=3A1A52&ring=FF2FB3&fire=00F0FF&currStreakNum=F5F5FF&sideNums=C9C9E8&currStreakLabel=FF2FB3&sideLabels=7F7FA8&dates=7F7FA8" width="60%" />
+</div>
 
 ---
 
-## 📫 Reach me:
-- 📧 [luzolo.adoho@gmail.com](mailto:luzolo.adoho@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-adoho/)
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ynvers&icon=6&color=2" alt="Views" />
-</p>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake.svg" />
 </picture>
+
+<img src="https://komarev.com/ghpvc/?username=Ynvers&label=Profile%20Views&color=FF2FB3&style=flat" alt="Views" />
+
+<img src="https://raw.githubusercontent.com/Ynvers/Ynvers/main/assets/banner-footer.svg" width="100%"/>
+
+</div>
