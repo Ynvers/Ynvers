@@ -9,8 +9,8 @@
 </a>
 
 <p>
-  <a href="mailto:luzolo.adoho@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF2E63" /></a>
-  <a href="https://www.linkedin.com/in/nathan-adoho/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="mailto:luzolo.adoho@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+  <a href="https://www.linkedin.com/in/nathan-adoho/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=DC2626" /></a>
   <a href="https://portfolio.nathanadoho.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=9D4EDD" /></a>
 </p>
 
@@ -30,11 +30,11 @@
 
 **Languages & Core**
 <br/>
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00F0FF) ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F0FF) ![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=00F0FF) ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=D4AF37) ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37) ![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=D4AF37) ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
 
 **AI & Data Science**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=PyTorch&logoColor=FF2E63) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=TensorFlow&logoColor=FF2E63) ![Keras](https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=Keras&logoColor=FF2E63) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=FF2E63) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=FF2E63)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=PyTorch&logoColor=DC2626) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=TensorFlow&logoColor=DC2626) ![Keras](https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=Keras&logoColor=DC2626) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=DC2626) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=DC2626)
 
 **Tools**
 <br/>
@@ -62,12 +62,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Ynvers&hide_border=true&show_icons=true&count_private=true&bg_color=0A0A0A&title_color=FF2E63&icon_color=00F0FF&text_color=C9C9C9" width="49%" />
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Ynvers&hide_border=true&layout=compact&bg_color=0A0A0A&title_color=FF2E63&text_color=C9C9C9" width="30%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Ynvers&hide_border=true&show_icons=true&count_private=true&bg_color=0A0A0A&title_color=DC2626&icon_color=D4AF37&text_color=C9C9C9" width="49%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Ynvers&hide_border=true&layout=compact&bg_color=0A0A0A&title_color=DC2626&text_color=C9C9C9" width="30%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ynvers&hide_border=true&background=0A0A0A&border=1A1A1A&stroke=1A1A1A&ring=FF2E63&fire=00F0FF&currStreakNum=F5F5F5&sideNums=C9C9C9&currStreakLabel=F5F5F5&sideLabels=7F7F7F&dates=7F7F7F" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Ynvers&hide_border=true&background=0A0A0A&border=1A1A1A&stroke=1A1A1A&ring=DC2626&fire=D4AF37&currStreakNum=F5F5F5&sideNums=C9C9C9&currStreakLabel=F5F5F5&sideLabels=7F7F7F&dates=7F7F7F" width="60%" />
 </div>
 
 ---
@@ -80,6 +80,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ynvers/Ynvers/output/github-snake.svg" />
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=Ynvers&label=Profile%20Views&color=FF2E63&style=flat" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=Ynvers&label=Profile%20Views&color=DC2626&style=flat" alt="Views" />
 
 </div>

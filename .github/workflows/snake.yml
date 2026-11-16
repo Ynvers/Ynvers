@@ -26,8 +26,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg?color_snake=%237209B7&color_dots=%23ebedf0,%23d8b4fe,%239d4edd,%237209b7,%233a0ca3
-            dist/github-snake-dark.svg?color_snake=%239D4EDD&color_dots=%230a0a0a,%233a0ca3,%237209b7,%23f72585,%234cc9f0
+            dist/github-snake.svg?color_snake=%23D4AF37&color_dots=%23ebedf0,%23D4AF37,%23DC2626,%239d4edd,%233a0ca3
+            dist/github-snake-dark.svg?color_snake=%23D4AF37&color_dots=%230a0a0a,%23D4AF37,%23DC2626,%239d4edd,%233a0ca3
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
